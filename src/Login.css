@@ -11,22 +11,22 @@
   flex-direction: column;
   text-align: center;
   background-color: #dcdcdc;
-  padding: 30px;
+  padding: 60px;
 }
 
 .login__textBox {
-  padding: 10px;
-  font-size: 18px;
+  padding: 20px;
+  font-size: 36px;
   margin-bottom: 10px;
 }
 
 .login__btn {
-  padding: 10px;
-  font-size: 18px;
+  padding: 20px;
+  font-size: 36px;
   margin-bottom: 10px;
   border: none;
   color: white;
-  background-color: black;
+  background-color: #892BE2;
 }
 
 .login__google {
